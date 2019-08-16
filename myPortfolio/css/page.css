@@ -1,0 +1,60 @@
+
+/* 
+  THEME NAME: MY PORTFOLIO
+  Version: 1.5 
+*/
+ 
+.container {
+  position: static;
+  bottom: 10em;
+  right: 1.2em;
+}
+
+.content-block {
+  position: relative;
+  bottom: 5em;
+}
+
+.page-title {
+font-size: 20px;
+font-family: 'Work Sans', sans-serif;
+text-transform: uppercase;
+letter-spacing: 10px;
+color: rgb(0, 0, 0);
+opacity: .7;
+}
+
+.content-pages {
+margin: auto;
+width: 90%;
+height: auto;
+border: 1px solid rgba(0, 0, 0, 0.109);
+padding: 1em;
+font-family: Courier New, monospace;
+text-align: left;
+}
+
+h3 {
+text-decoration: underline;
+border: 1px solid black;
+margin: auto;
+}
+
+.resume, .dl {
+margin: auto;
+text-align: center;
+}
+
+p {
+text-indent: 2em;
+}
+
+.bar {
+  position: relative;
+  top: -12em;
+}
+
+.bar2 {
+  position: relative;
+  bottom: 20em;
+}
