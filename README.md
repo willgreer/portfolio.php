@@ -2,9 +2,11 @@
 
 version 1 import date: 8/16/19
 
-still to do:
+my first website (<strong>ever</strong>)
 
-1. convert images to ...
-2. back to home
-3. content-pages formatting
-4. media queries
+made in PHP 😵 
+
+created to utilize wordpress for content management an amateur photographer
+and became a javascript developer instead 
+
+ ¯\_(ツ)_/¯
