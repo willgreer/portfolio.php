@@ -8,5 +8,4 @@ made in PHP 😵
 
 created to utilize wordpress for content management an amateur photographer
 and became a javascript developer instead 
-
- ¯\_(ツ)_/¯
+¯\_(ツ)_/¯
